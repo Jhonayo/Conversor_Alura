@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0995c450-7c79-4b3c-baac-65393263a6b3" name="Changes" comment="Commit inicial de carga de proyecto Conversor">
+    <list default="true" id="0995c450-7c79-4b3c-baac-65393263a6b3" name="Changes" comment="Creacion de Readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/Screen Shot 2023-09-26 at 19.44.52.png" beforeDir="false" afterPath="$PROJECT_DIR$/Img/Screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/Screen Shot 2023-09-26 at 19.45.10.png" beforeDir="false" afterPath="$PROJECT_DIR$/Img/Screen2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/Screen Shot 2023-09-26 at 19.46.43.png" beforeDir="false" afterPath="$PROJECT_DIR$/Img/Screen3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/Screen Shot 2023-09-26 at 19.46.57.png" beforeDir="false" afterPath="$PROJECT_DIR$/Img/Screen4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/Screen Shot 2023-09-26 at 19.47.06.png" beforeDir="false" afterPath="$PROJECT_DIR$/Img/Screen5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img/Screen Shot 2023-09-26 at 19.47.21.png" beforeDir="false" afterPath="$PROJECT_DIR$/Img/Screen6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695758893364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creacion de Readme">
+      <option name="closed" value="true" />
+      <created>1695769443907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695769443907</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit inicial de carga de proyecto Conversor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial de carga de proyecto Conversor" />
+    <MESSAGE value="Creacion de Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creacion de Readme" />
   </component>
 </project>

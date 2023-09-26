@@ -1,17 +1,17 @@
-# Multi Conversor Desafio Alura
+# Multi Conversor Desafío Alura
 
-En este proyecto desarolle un conversor de unidades multifuncional, es parte de los Challenge de Oracle Next Education.
+En este proyecto desarrollé un conversor de unidades multifuncional, es parte de los Challenge de Oracle Next Education.
 
-Inicialmente se solicitaba poder convertir divisas internacionales a la moneda nacional de cada alumno e instaban a subir el desafio,
-por lo cual desarolle una un conversor multifuncional, donde fueron implementadas en esta version ademas de la conversion de divisas extranjera,
-la conversion de unidades de temperatura asi como de distancia, con una interfas amigable e intutiva.
+Inicialmente, se solicitaba poder convertir divisas internacionales a la moneda nacional de cada alumno e instaban a subir el desafío,
+por lo cual desarrollé una un conversor multifuncional, donde fueron implementadas en esta versión además de la conversión de divisas extranjera,
+la conversión de unidades de temperatura así como de distancia, con una interfaz amigable e intuitiva.
 
 ## Funciones:
 
 ### Conversión de Divisas:
 
 * Pesos Chilenos
-* Dolar Estadounidense
+* Dólar Estadounidense
 * Euros
 * Libras Esterlinas
 * Yen
@@ -20,24 +20,25 @@ la conversion de unidades de temperatura asi como de distancia, con una interfas
 
 ### Conversión de Temperaturas:
 
-* Celcius [°C]
+* Celsius [°C]
 * Kelvin [°K]
 * Fahrenheit [°F]
 
-### Conversión 
+### Conversión
 
 * Pulgadas [in]
 * Pie [ft]
 * Millas [mil]
 * Yardas [yd]
-* Kilometros [km]
+* Kilómetros [km]
 * Metros [m]
-* Centimetros [cm]
+* Centímetros [cm]
 
-![screenshot](Img/Screen Shot 2023-09-26 at 19.44.52.png)
-![screenshot](Img/Screen Shot 2023-09-26 at 19.45.10.png)
-![screenshot](Img/Screen Shot 2023-09-26 at 19.46.43.png)
-![screenshot](Img/Screen Shot 2023-09-26 at 19.46.57.png)
-![screenshot](Img/Screen Shot 2023-09-26 at 19.47.06.png)
-![screenshot](Img/Screen Shot 2023-09-26 at 19.47.21.png)
+
+![screenshot](Img/Screen.png)
+![screenshot](Img/Screen2.png)
+![screenshot](Img/Screen3.png)
+![screenshot](Img/Screen4.png)
+![screenshot](Img/Screen5.png)
+![screenshot](Img/Screen6.png)
 
